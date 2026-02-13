@@ -54,14 +54,19 @@ The goal is to demonstrate how sustainability and profitability can align throug
 
 ---
 
-##  Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-gold)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific-orange?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-gold?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<hr>
+
 
 ---
 
