@@ -88,7 +88,8 @@ The goal is to demonstrate how sustainability and profitability can align throug
 
 #  Dashboard & Visual Insights
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Dashboard%20Overview.png)
+
 
 
 The dashboard highlights:
