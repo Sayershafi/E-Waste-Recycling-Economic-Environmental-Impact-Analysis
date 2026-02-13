@@ -1,11 +1,19 @@
 
 
-# E-Waste Recycling Economic & Environmental Impact Analysis  
+<h1 align="center">
+  ♻️ E-Waste Recycling Economic & Environmental Impact Analysis
+</h1>
 
-Analyzing U.S. national e-waste recycling performance, revenue growth, environmental impact, and state-level insights (2015–2024)  
-**Python | Pandas | Matplotlib | Seaborn | Power BI**
+<p align="center">
+  Analyzing U.S. national e-waste recycling performance, revenue growth, environmental impact, and state-level insights (2015–2024)
+</p>
 
----
+<p align="center">
+  <b>Python</b> | <b>Pandas</b> | <b>Matplotlib</b> | <b>Seaborn</b> | <b>Power BI</b>
+</p>
+
+<hr>
+
 
 ##  Project Objective
 
