@@ -99,7 +99,15 @@ The goal is to demonstrate how sustainability and profitability can align throug
 
 ---
 
-#  Dashboard & Visual Insights
+<h2 align="center">
+  📊 Dashboard & Visual Insights
+</h2>
+
+<p align="center">
+  Comprehensive economic & environmental performance visualization
+</p>
+
+<hr style="height:2px;border:none;background-color:#ddd;">
 
 ![Dashboard Overview](Dashboard%20Overview.png)
 
